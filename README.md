@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,45:101B3D,100:6C35DE&text=SYSTEM%20ONLINE&fontColor=00F5FF&fontSize=45&fontAlignY=38&desc=LUiz%20GUILHERME%20%7C%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,45:101B3D,100:6C35DE&text=SYSTEM%20ONLINE&fontColor=00F5FF&fontSize=45&fontAlignY=38&desc=LUIZ%20GUILHERME%20%7C%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=15&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;ADS+Student+%7C+Developer+in+Progress;Building+ideas+into+real+projects;Learning+Python+%7C+Java+%7C+Programming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;ADS+Student+%7C+Developer+in+Progress;Building+ideas+into+real+projects;HTML5+%7C+CSS3+%7C+Python+%7C+Git" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=080B16" />
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-7B2CFF?style=for-the-badge&labelColor=080B16" />
+<img src="https://img.shields.io/badge/FOCUS-WEB%20%26%20LOGIC-7B2CFF?style=for-the-badge&labelColor=080B16" />
 <img src="https://img.shields.io/badge/LEVEL-LEARNING-00D9A6?style=for-the-badge&labelColor=080B16" />
 
 <br/><br/>
@@ -32,14 +32,14 @@ role: ADS Student
 education: Análise e Desenvolvimento de Sistemas
 
 interests:
+  - Web Development (Front-End)
   - Software Development
-  - Backend Development
   - Programming Logic
-  - Technology & Innovation
+  - UI/UX & Styling
 
 currently_learning:
+  - HTML5 & CSS3
   - Python
-  - Java
   - Programming Fundamentals
   - Git & GitHub
 
@@ -48,9 +48,9 @@ mindset: "Learn. Build. Improve. Repeat."
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e pelo processo de transformar ideias em soluções através da programação.
 
-Atualmente estou desenvolvendo minha lógica de programação, explorando novas tecnologias e construindo projetos práticos para consolidar meus conhecimentos.
+Atualmente estou consolidando minha base em desenvolvimento web com **HTML5 e CSS3**, além de aprimorar minha lógica de programação com **Python** e construir projetos práticos para o meu portfólio.
 
-Meu objetivo é evoluir como desenvolvedor, criar soluções úteis e transformar conhecimento em experiências reais.
+Meu objetivo é evoluir como desenvolvedor, criar interfaces modernas, soluções úteis e transformar conhecimento em experiências reais.
 
 > "Great things are built one line of code at a time."
 
@@ -60,19 +60,23 @@ Meu objetivo é evoluir como desenvolvedor, criar soluções úteis e transforma
 
 ## `02 // TECH STACK`
 
-### Main technology
+### Core Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-### Currently exploring
+### Currently Exploring
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c&theme=dark" alt="Java and C" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
@@ -80,15 +84,9 @@ Meu objetivo é evoluir como desenvolvedor, criar soluções úteis e transforma
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
-
-</div>
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?style=flat-square&logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-Command%20Line-00F5FF?style=flat-square&logo=windowsterminal&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -97,6 +95,10 @@ Meu objetivo é evoluir como desenvolvedor, criar soluções úteis e transforma
 ## `03 // PROJECT DATABASE`
 
 <div align="center">
+
+<a href="https://github.com/guijesus10/perfil-profissional-html">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=guijesus10&repo=perfil-profissional-html&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F5FF&icon_color=7B2CFF" alt="Perfil Profissional em HTML e CSS" />
+</a>
 
 <a href="https://github.com/guijesus10/sistema-controle-financeiro">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=guijesus10&repo=sistema-controle-financeiro&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F5FF&icon_color=7B2CFF" alt="Sistema de Controle Financeiro" />
@@ -110,10 +112,11 @@ Meu objetivo é evoluir como desenvolvedor, criar soluções úteis e transforma
 
 ### Featured projects
 
-| Project | Description | Technology |
-|:---|:---|:---:|
-| [Sistema de Controle Financeiro](https://github.com/guijesus10/sistema-controle-financeiro) | Cadastro de entradas, despesas, consulta de movimentações e cálculo de saldo. | `Python` |
-| [DIO Lab - Open Source](https://github.com/guijesus10/dio-lab-open-source) | Participação no laboratório de contribuição em projetos Open Source da DIO. | `Jupyter Notebook` |
+| Project | Description | Technology | Link / Live |
+|:---|:---|:---:|:---:|
+| [Perfil Profissional](https://github.com/guijesus10/perfil-profissional-html) | Página web de apresentação pessoal e portfólio estilizada com boas práticas de estruturação. | `HTML5 & CSS3` | [🔗 Ver Site](https://guijesus10.github.io/perfil-profissional-html/) |
+| [Sistema de Controle Financeiro](https://github.com/guijesus10/sistema-controle-financeiro) | Cadastro de entradas, despesas, consulta de movimentações e cálculo de saldo. | `Python` | [Repositório](https://github.com/guijesus10/sistema-controle-financeiro) |
+| [DIO Lab - Open Source](https://github.com/guijesus10/dio-lab-open-source) | Participação no laboratório de contribuição em projetos Open Source da DIO. | `Jupyter Notebook` | [Repositório](https://github.com/guijesus10/dio-lab-open-source) |
 
 ---
 
@@ -129,13 +132,13 @@ Meu objetivo é evoluir como desenvolvedor, criar soluções úteis e transforma
 ┌──[GUIGUI@DEVELOPER]─[~/current-missions]
 └─$ ./progress.sh
 
-[ RUNNING ] Strengthening programming logic
-[ RUNNING ] Building practical Python projects
-[ RUNNING ] Learning Java fundamentals
+[ RUNNING ] Building responsive layouts with HTML5 & CSS3
+[ RUNNING ] Strengthening programming logic with Python
+[ RUNNING ] Preparing next step: JavaScript fundamentals
 [ RUNNING ] Improving Git & GitHub workflow
-[ RUNNING ] Exploring software development
+[ RUNNING ] Developing practical portfolio projects
 
-[ TARGET ] Become a skilled software developer
+[ TARGET ] Become a skilled Front-End / Software Developer
 
 [ STATUS ] EVERY DAY IS A NEW COMMIT_
 ```
@@ -156,39 +159,27 @@ Meu objetivo é evoluir como desenvolvedor, criar soluções úteis e transforma
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=guijesus10&bg_color=080B16&color=00F5FF&line=7B2CFF&point=00F5FF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Activity Graph" />
+<img width="95%" src="https://ghchart.rshah.org/00F5FF/guijesus10" alt="GitHub Contribution Chart" />
 
 </div>
 
 ---
 
-## `06 // ACHIEVEMENTS UNLOCKED`
+## `06 // ACHIEVEMENTS & CERTIFICATIONS`
 
 <div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=guijesus10&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
-
-<br/>
 
 <a href="https://web.dio.me/users/lg8941398?tab=achievements">
 <img src="https://img.shields.io/badge/DIO-EXPLORE%20MY%20ACHIEVEMENTS-7B2CFF?style=for-the-badge&logo=bookstack&logoColor=white" alt="DIO Achievements" />
 </a>
+<img src="https://img.shields.io/badge/BOOTCAMP-PYTHON%20LOGIC%20(58H)-00F5FF?style=for-the-badge&logo=python&logoColor=080B16" alt="Python Bootcamp" />
+<img src="https://img.shields.io/badge/CERTIFICATION-SIX%20SIGMA%20WHITE%20BELT-00D9A6?style=for-the-badge&logo=checkmarx&logoColor=080B16" alt="Six Sigma White Belt" />
 
 </div>
 
 ---
 
-## `07 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/guijesus10/guijesus10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-
-</div>
-
----
-
-## `08 // ESTABLISH CONNECTION`
+## `07 // ESTABLISH CONNECTION`
 
 <div align="center">
 
