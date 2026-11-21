@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-guijesus10-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/guijesus10)
+[![GitHub](https://img.shields.io/badge/GitHub-devguijs-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/devguijs)
 [![DIO](https://img.shields.io/badge/DIO-My%20Achievements-0D1117?style=for-the-badge&logo=bookstack&logoColor=7B2CFF)](https://web.dio.me/users/lg8941398?tab=achievements)
 
 </div>
@@ -27,7 +27,7 @@
 
 ```yaml
 name: Luiz Guilherme
-username: guijesus10
+username: devguijs
 role: ADS Student
 education: Análise e Desenvolvimento de Sistemas
 
